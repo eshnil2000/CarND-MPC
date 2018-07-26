@@ -31,7 +31,7 @@ This project implements a C++ program that can drive a  car around a virtual tra
     const int a_change_cost_weight = 10;
 
 ### Results
-See video of the results from my implementation [here](mpc.mov).
+See video of the results from my implementation [here](https://youtu.be/-lq53pxBQD4).
 
 ## Discussion/Reflection
 ### The Model
